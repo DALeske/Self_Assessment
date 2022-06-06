@@ -6,7 +6,7 @@ In addition to the machine learning, I found dataset that we used for the projec
 
 Going into the project, I had doubts about my abilities to complete the tasks that I had been assigned. I was pleasantly surprised that I was able to complete the machine learning model and learn a few new skills along the way, particularly in regard to publishing the data in an application online. Through direct communication with team members, I was able to gain news skills and apply them as we developed the finished product.
 
-# Team assessment
+# Team Assessment
 
 I was fortunate to have the team members that I had. We each brought different strengths to the team and complemented each other well. We initially took the time to get to know each other as individuals when the group was formed, and I think this provided a good foundation of respect among members in the group. We learned of each other’s strengths and weaknesses and the made the group assignments based on that initial assessment. We relied primarily on the time that we had in class to assess what stage of the project we were at and to determine an action plan for the upcoming days. We agreed to stay in communication on Slack, which worked well for us. In the event of a difficulty in a task, we would post to the group Slack and provide feedback or assistance. The biggest challenge that we had was the connection of the machine learning model to the web application. Each of us researched the issue until a solution was found and then worked together to bring about a solution. A real strength of the team was the ability to take the time to teach each other when there was something new that we needed to apply in the project.
 
